@@ -1,0 +1,159 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "Quiet Library",
+      "address": "123 Main Street, Studyville",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "picture": "https://images.unsplash.com/photo-1663976685088-07af4fe13018?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A peaceful library with great Wifi and a quiet environment.",
+      "wifi": 4.5,
+      "noise": "low",
+      "crowd": "low",
+      "amenities": "Power outlets, comfortable seating, quiet zones, large desks",
+      "reviews": [
+        {
+          "rating": 5,
+          "wifi": 5,
+          "noise": "low",
+          "crowd": "low",
+          "comment": "Perfect for focused work!",
+          "date": "2024-01-15 09:30"
+        },
+        {
+          "rating": 4,
+          "wifi": 4,
+          "noise": "low",
+          "crowd": "low",
+          "comment": "Great place but could use more seating.",
+          "date": "2024-02-10 14:15"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Cozy Cafe",
+      "address": "456 Elm Avenue, Studyville",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "picture": "https://images.unsplash.com/photo-1494346480775-936a9f0d0877?q=80&w=2016&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A warm cafe with excellent coffee and moderate noise levels.",
+      "wifi": 4.5,
+      "noise": "medium",
+      "crowd": "medium",
+      "amenities": "Free Wifi, power outlets, cozy seating, good lighting",
+      "reviews": [
+        {
+          "rating": 4,
+          "wifi": 4,
+          "noise": "medium",
+          "crowd": "medium",
+          "comment": "Good spot for casual studying.",
+          "date": "2024-02-05 10:45"
+        },
+        {
+          "rating": 5,
+          "wifi": 5,
+          "noise": "low",
+          "crowd": "low",
+          "comment": "Calm place to study with great coffee!",
+          "date": "2024-02-15 11:30"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Modern Coworking Space",
+      "address": "789 Maple Road, Studyville",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "picture": "https://plus.unsplash.com/premium_photo-1684249780786-11dfffd38fbb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A stylish coworking space with fast Wifi and professional amenities.",
+      "wifi": 5,
+      "noise": "low",
+      "crowd": "medium",
+      "amenities": "Ergonomic chairs, fast Wifi, meeting rooms, snack bar",
+      "reviews": [
+        {
+          "rating": 5,
+          "wifi": 5,
+          "noise": "low",
+          "crowd": "medium",
+          "comment": "Ideal for group projects!",
+          "date": "2024-03-01 11:00"
+        },
+        {
+          "rating": 4,
+          "wifi": 5,
+          "noise": "low",
+          "crowd": "medium",
+          "comment": "Great facilities but gets busy in the afternoon.",
+          "date": "2024-03-10 16:30"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Community Center",
+      "address": "321 Pine Lane, Studyville",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "picture": "https://images.unsplash.com/photo-1562664348-2188b99b5157?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A welcoming community center with plenty of tables and quiet zones.",
+      "wifi": 3,
+      "noise": "low",
+      "crowd": "low",
+      "amenities": "Community rooms, power outlets, shared kitchen, affordable prices",
+      "reviews": [
+        {
+          "rating": 4,
+          "wifi": 3,
+          "noise": "low",
+          "crowd": "low",
+          "comment": "Affordable and quiet, but Wifi could be faster.",
+          "date": "2024-01-20 08:15"
+        },
+        {
+          "rating": 3,
+          "wifi": 3,
+          "noise": "low",
+          "crowd": "low",
+          "comment": "Good space, but Wifi issues make it hard to work online.",
+          "date": "2024-01-25 12:00"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Busy Downtown Cafe",
+      "address": "654 Oak Street, Studyville",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "picture": "https://images.unsplash.com/photo-1493857671505-72967e2e2760?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "A lively cafe with great coffee but higher noise levels.",
+      "wifi": 4,
+      "noise": "high",
+      "crowd": "high",
+      "amenities": "High-speed Wifi, multiple seating options, great coffee",
+      "reviews": [
+        {
+          "rating": 3,
+          "wifi": 4,
+          "noise": "high",
+          "crowd": "high",
+          "comment": "Good coffee but too noisy for focused work.",
+          "date": "2024-02-18 09:00"
+        },
+        {
+          "rating": 4,
+          "wifi": 4,
+          "noise": "high",
+          "crowd": "high",
+          "comment": "Fun vibe, great for creative brainstorming.",
+          "date": "2024-02-25 17:45"
+        }
+      ]
+    }
+  ]
+}
